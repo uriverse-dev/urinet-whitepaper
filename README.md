@@ -1,4 +1,4 @@
-## ToC
+## Off-Chain Agents. On-Chain Trust.
 
 - Make sure to first read our disclaimer. Accessing any of our materials constitutes your agreement and understanding of it: [DISCLAIMER](https://github.com/uriverse-dev/urinet-whitepaper/blob/main/NOTICE%20AND%20DISCLAIMER.md)
 
